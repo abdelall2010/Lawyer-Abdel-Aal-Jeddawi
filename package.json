@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "serve": "11.2.0"
+  },
+  "dependencies": {
+    "public-encrypt": "4.0.3"
   }
 }
